@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     func test() {
         print("Hello")
+    }
 
     func differentTest() {
         print("Something else")
