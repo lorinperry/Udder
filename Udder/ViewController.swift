@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    func differentTest() {
+        print("Something else")
+    }
+    
 }
 
